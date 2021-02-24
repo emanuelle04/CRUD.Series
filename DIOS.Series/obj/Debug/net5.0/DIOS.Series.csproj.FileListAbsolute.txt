@@ -1,0 +1,16 @@
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.exe
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.deps.json
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.runtimeconfig.json
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.dll
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\ref\DIOS.Series.dll
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\bin\Debug\net5.0\DIOS.Series.pdb
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.dll
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\ref\DIOS.Series.dll
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.pdb
+C:\Users\Samsung\Desktop\DIO.Series\DIOS.Series\obj\Debug\net5.0\DIOS.Series.genruntimeconfig.cache
